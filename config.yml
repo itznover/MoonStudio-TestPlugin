@@ -1,0 +1,11 @@
+groupDomain: 'moonstudio'
+mysql:
+  host: 'localhost'
+  port: 3306
+  user: 'user'
+  pass: 'pass'
+  database: 'db'
+  table: 'MoonStudioTest'
+messages:
+  loading: '&b&lI &fЗагрузка новости, &eожидайте&f..'
+  broadcast: "&a&lВНИМАНИЕ! &fВ группе новая &eновость&f!\n&a&lВНИМАНИЕ! &fУзнать подробнее: &b&l/news"

@@ -1,0 +1,9 @@
+name: MoonStudio-TestPlugin
+main: ru.Nover.TestPlugin.JavaMain
+version: 1.0-beta
+depend:
+  - ProtocolLib
+commands:
+  news:
+    usage: /news
+    description: Основная команда плагина (MoonStudio-TestPlugin)
